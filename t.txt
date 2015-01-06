@@ -1,0 +1,1 @@
+unam.edu.ar.;##listas.unam.edu.ar.;CNAME;IN;3600;campus1.unam.edu.ar.;AXFR;campus.unam.edu.ar. [170.210.192.3];20080427012421395;203.178.133.3;0/0/0/0/0
